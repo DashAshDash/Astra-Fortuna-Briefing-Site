@@ -8,12 +8,12 @@
 		"planet": "Hercynia",
 		"year": "742ge",
 		"system": "Ardennes-3",
-		"through-line": "Ajax-Mirrors-Tampel",
-		"ante-line": "50 days",
+		"gate": "Ajax-Mirrors-Tampel",
+		"ring": "50 days",
 		"headerTitle": "Astra Fortuna",
 		"headerSubtitle": "Mercenary Company",
 		"subheaderTitle": "Licensed To Operate",
-		"subheaderSubtitle": "Gamma-Indigo-Tango-Gamma-Uniform-Delta"
+		"subheaderSubtitle": "Diamant Guarantor"
 	},
 	"pilotSpecialInfo": {
 		"SOLITAIRE": {
