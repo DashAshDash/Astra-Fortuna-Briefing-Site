@@ -23,17 +23,20 @@
 		"SEPH": {
 			"age": "28?rt",
 			"pob": "REDACTED"
-		}
+		},
 		"KERES": {
 			"age": "21rt",
 			"pob": "Prosperity"
-		}"NOCTURNE": {
+		},
+		"NOCTURNE": {
 			"age": "20rt",
 			"pob": "REDACTED"
-		}"NIGHTJAR": {
+		},
+		"NIGHTJAR": {
 			"age": "20rt",
 			"pob": "REDACTED"
-		}"SLICER": {
+		},
+		"SLICER": {
 			"age": "21rt",
 			"pob": "Pacific Caribbean"
 		}
